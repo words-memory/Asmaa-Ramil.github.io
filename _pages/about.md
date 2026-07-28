@@ -5,7 +5,7 @@ layout: splash
 author_profile: false
 
 header:
-  overlay_image: /Asmaa-Ramil.github.io/images/hero.png
+  overlay_image: https://words-memory.github.io/Asmaa-Ramil.github.io/images/hero.png
   overlay_filter: 0.35
 ---
 
