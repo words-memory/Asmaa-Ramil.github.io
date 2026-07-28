@@ -8,4 +8,4 @@ author_profile: false
 
 A collection of narrated stories, legends and cultural memories.
 
-Through storytelling, this space explores how societies preserve values, imagine human experience, and transmit meanings across generations.
+Through storytelling, this space explores how societies preserve values, imagine human experience and transmit meanings across generations.
