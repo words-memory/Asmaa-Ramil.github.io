@@ -37,3 +37,46 @@
     "layout/sidebar",
     "layout/json_cv"
 ;
+/* ==============================
+   CUSTOM HOMEPAGE
+============================== */
+
+.page__hero {
+
+    min-height:100vh;
+
+}
+
+.page__hero--overlay{
+
+    min-height:100vh;
+
+    background-size:cover;
+
+    background-position:center center;
+
+}
+
+.page__hero-caption{
+
+    display:none;
+
+}
+
+.page__hero .wrapper{
+
+    display:none;
+
+}
+
+#main{
+
+    padding:0;
+
+}
+
+.page{
+
+    margin-top:0;
+
+}
