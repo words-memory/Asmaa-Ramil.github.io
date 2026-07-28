@@ -1,5 +1,4 @@
 ---
----
 permalink: /
 layout: splash
 author_profile: false
@@ -10,6 +9,5 @@ header:
 
 classes:
   - landing
----
 
 ---
