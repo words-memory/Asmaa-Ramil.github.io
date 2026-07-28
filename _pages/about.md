@@ -1,6 +1,6 @@
 ---
 permalink: /
-layout: splash
+layout: home
 author_profile: false
 
 header:
