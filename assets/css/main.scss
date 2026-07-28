@@ -37,3 +37,67 @@
     "layout/sidebar",
     "layout/json_cv"
 ;
+/* =====================================================
+   CUSTOM HOMEPAGE
+===================================================== */
+
+.page__hero {
+    height: 100vh;
+    min-height: 100vh;
+}
+
+.page__hero--overlay {
+
+    min-height:100vh;
+
+    display:flex;
+
+    justify-content:center;
+
+    align-items:center;
+
+    padding:0;
+
+}
+
+.page__hero-caption{
+
+    display:none;
+
+}
+
+.page__hero .wrapper{
+
+    display:none;
+
+}
+
+/* Remove the white content area */
+
+.landing .page__content{
+
+    display:none;
+
+}
+
+.landing .page{
+
+    margin-top:0;
+
+}
+
+.landing #main{
+
+    padding:0;
+
+    max-width:100%;
+
+}
+
+.page__hero--overlay{
+
+    background-position:center center;
+
+    background-size:cover;
+
+}
